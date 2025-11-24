@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">30 Days of Polish Nature</string>
+    <string name="animal_roe_deer_english_name">European Roe Deer</string>
+    <string name="animal_roe_deer_latin_name" formatted="false">Capreolus capreolus</string>
+    <string name="animal_roe_deer_description">The most numerous wild ungulate in Poland. Highly adaptable to forest, field, and mixed habitats.</string>
+    <string name="animal_roe_deer_distribution">Very abundant throughout all of Poland, present in almost every region.</string>
+    <string name="animal_roe_deer_status">Game Species. Population is stable and abundant (IUCN: Least Concern).</string>
+
+    <string name="animal_red_fox_english_name">Red Fox</string>
+    <string name="animal_red_fox_latin_name" formatted="false">Vulpes vulpes</string>
+    <string name="animal_red_fox_description">The most common and widespread wild canid, highly adaptable to rural and urban environments.</string>
+    <string name="animal_red_fox_distribution">Present throughout all of Poland, with high population densities everywhere.</string>
+    <string name="animal_red_fox_status">Common and abundant. Subject to hunting management (IUCN: Least Concern).</string>
+
+    <string name="animal_wild_boar_english_name">Wild Boar</string>
+    <string name="animal_wild_boar_latin_name" formatted="false">Sus scrofa</string>
+    <string name="animal_wild_boar_description">Widespread ungulate known for rooting behavior, often found in forests and increasingly in urban fringe areas.</string>
+    <string name="animal_wild_boar_distribution">Common across the whole country, especially in eastern forests, with increasing presence near cities.</string>
+    <string name="animal_wild_boar_status">Game Species. Population is abundant and has been increasing (IUCN: Least Concern).</string>
+
+    <string name="animal_red_deer_english_name">Red Deer</string>
+    <string name="animal_red_deer_latin_name" formatted="false">Cervus elaphus</string>
+    <string name="animal_red_deer_description">One of the largest European deer species, typically found in large, dense forest complexes.</string>
+    <string name="animal_red_deer_distribution">Widespread in forested areas, most numerous in northeastern forests (e.g., Białowieża) and southern mountains (Carpathians).</string>
+    <string name="animal_red_deer_status">Game Species. Population is stable and well-managed (IUCN: Least Concern).</string>
+
+    <string name="animal_european_hare_english_name">European Hare</string>
+    <string name="animal_european_hare_latin_name" formatted="false">Lepus europaeus</string>
+    <string name="animal_european_hare_description">Common lagomorph of open fields and agricultural landscapes.</string>
+    <string name="animal_european_hare_distribution">Widespread and abundant in lowlands, meadows, and cultivated fields across Poland.</string>
+    <string name="animal_european_hare_status">Game Species. Population is considered stable, though subject to fluctuations (IUCN: Least Concern).</string>
+
+    <string name="animal_european_badger_english_name">European Badger</string>
+    <string name="animal_european_badger_latin_name" formatted="false">Meles meles</string>
+    <string name="animal_european_badger_description">Nocturnal carnivore living in complex underground burrows (setts). Highly adaptable omnivore.</string>
+    <string name="animal_european_badger_distribution">Widespread across all of Poland, favoring woodlands, scrub, and sometimes park areas.</string>
+    <string name="animal_european_badger_status">Game Species. Population is stable (IUCN: Least Concern).</string>
+
+    <string name="animal_eurasian_beaver_english_name">Eurasian Beaver</string>
+    <string name="animal_eurasian_beaver_latin_name" formatted="false">Castor fiber</string>
+    <string name="animal_eurasian_beaver_description">Europe\'s largest rodent, known for dam building. Successfully reintroduced and recovered.</string>
+    <string name="animal_eurasian_beaver_distribution">Widely distributed near rivers, lakes, and streams throughout the country, with high densities in the northeast.</string>
+    <string name="animal_eurasian_beaver_status">Partially Protected. Population is rapidly increasing and stable (IUCN: Least Concern).</string>
+
+    <string name="animal_red_squirrel_english_name">Red Squirrel</string>
+    <string name="animal_red_squirrel_latin_name" formatted="false">Sciurus vulgaris</string>
+    <string name="animal_red_squirrel_description">Arboreal rodent with tufted ears, common in coniferous and deciduous forests.</string>
+    <string name="animal_red_squirrel_distribution">Widespread in most forested areas and urban parks across Poland.</string>
+    <string name="animal_red_squirrel_status">Legally Protected. Population is stable (IUCN: Least Concern).</string>
+
+    <string name="animal_bank_vole_english_name">Bank Vole</string>
+    <string name="animal_bank_vole_latin_name" formatted="false">Myodes glareolus</string>
+    <string name="animal_bank_vole_description">One of the most numerous small rodents, living in forests and dense vegetation.</string>
+    <string name="animal_bank_vole_distribution">Extremely widespread and abundant throughout all habitats in Poland.</string>
+    <string name="animal_bank_vole_status">Common. Not specifically protected (IUCN: Least Concern).</string>
+
+    <string name="animal_common_vole_english_name">Common Vole</string>
+    <string name="animal_common_vole_latin_name" formatted="false">Microtus arvalis</string>
+    <string name="animal_common_vole_description">A very common small rodent known for population explosions, especially in agricultural areas.</string>
+    <string name="animal_common_vole_distribution">Extremely numerous in open fields, meadows, and agricultural land across the entire country.</string>
+    <string name="animal_common_vole_status">Common. Not specifically protected (IUCN: Least Concern).</string>
+
+    <string name="animal_european_hedgehog_english_name">European Hedgehog</string>
+    <string name="animal_european_hedgehog_latin_name" formatted="false">Erinaceus roumanicus</string>
+    <string name="animal_european_hedgehog_description">Common spiny mammal, often found in gardens, parks, and hedgerows near human settlements.</string>
+    <string name="animal_european_hedgehog_distribution">Widespread across all lowlands and lower elevations of Poland.</string>
+    <string name="animal_european_hedgehog_status">Legally Protected. Population status is generally stable but faces local threats (IUCN: Least Concern).</string>
+
+    <string name="animal_house_mouse_english_name">House Mouse</string>
+    <string name="animal_house_mouse_latin_name" formatted="false">Mus musculus</string>
+    <string name="animal_house_mouse_description">Small omnivorous rodent, strongly associated with human habitation and buildings.</string>
+    <string name="animal_house_mouse_distribution">Present throughout all of Poland, wherever human structures provide shelter.</string>
+    <string name="animal_house_mouse_status">Common and abundant. Considered a pest species (IUCN: Least Concern).</string>
+
+    <string name="animal_great_tit_english_name">Great Tit</string>
+    <string name="animal_great_tit_latin_name" formatted="false">Parus major</string>
+    <string name="animal_great_tit_description">A common and recognizable small songbird of gardens and woodlands.</string>
+    <string name="animal_great_tit_distribution">Extremely widespread and numerous in every type of habitat across Poland.</string>
+    <string name="animal_great_tit_status">Common. Protected under general bird protection laws (IUCN: Least Concern).</string>
+
+    <string name="animal_blackbird_english_name">Common Blackbird</string>
+    <string name="animal_blackbird_latin_name" formatted="false">Turdus merula</string>
+    <string name="animal_blackbird_description">Familiar songbird; urban populations are often resident, while forest birds are migratory.</string>
+    <string name="animal_blackbird_distribution">Widespread and very numerous throughout Poland, common in both forests and cities.</string>
+    <string name="animal_blackbird_status">Common. Protected under general bird protection laws (IUCN: Least Concern).</string>
+
+    <string name="animal_starling_english_name">Common Starling</string>
+    <string name="animal_starling_latin_name" formatted="false">Sturnus vulgaris</string>
+    <string name="animal_starling_description">Known for its iridescent plumage and large, murmuring flocks during migration.</string>
+    <string name="animal_starling_distribution">Widespread breeding bird across all of Poland, especially common near farmland and villages.</string>
+    <string name="animal_starling_status">Common. Protected under general bird protection laws (IUCN: Least Concern).</string>
+
+    <string name="animal_magpie_english_name">Eurasian Magpie</string>
+    <string name="animal_magpie_latin_name" formatted="false">Pica pica</string>
+    <string name="animal_magpie_description">Intelligent, bold, and highly visible corvid, often found close to human settlements.</string>
+    <string name="animal_magpie_distribution">Widespread and abundant across the entire country, thriving in urban and suburban areas.</string>
+    <string name="animal_magpie_status">Common. Protected under general bird protection laws (IUCN: Least Concern).</string>
+
+    <string name="animal_wood_pigeon_english_name">Common Wood Pigeon</string>
+    <string name="animal_wood_pigeon_latin_name" formatted="false">Columba palumbus</string>
+    <string name="animal_wood_pigeon_description">The largest and most common pigeon species, often found in parks, gardens, and forests.</string>
+    <string name="animal_wood_pigeon_distribution">Extremely numerous in every region of Poland, particularly associated with farmlands and parks.</string>
+    <string name="animal_wood_pigeon_status">Common. Protected under general bird protection laws (IUCN: Least Concern).</string>
+
+    <string name="animal_white_stork_english_name">White Stork</string>
+    <string name="animal_white_stork_latin_name" formatted="false">Ciconia ciconia</string>
+    <string name="animal_white_stork_description">Iconic migratory bird, with Poland hosting the largest breeding population in the world.</string>
+    <string name="animal_white_stork_distribution">Breeds across the entire country, but with significantly higher densities in the eastern and northeastern lowlands.</string>
+    <string name="animal_white_stork_status">Legally **Protected** in Poland. Population is stable country-wide (IUCN: Least Concern).</string>
+
+    <string name="animal_mallard_english_name">Mallard</string>
+    <string name="animal_mallard_latin_name" formatted="false">Anas platyrhynchos</string>
+    <string name="animal_mallard_description">The most common and familiar duck species, often semi-domesticated in parks.</string>
+    <string name="animal_mallard_distribution">Found on almost every body of water (rivers, lakes, ponds) across all of Poland.</string>
+    <string name="animal_mallard_status">Game Species. Population is abundant and stable (IUCN: Least Concern).</string>
+
+    <string name="animal_house_sparrow_english_name">House Sparrow</string>
+    <string name="animal_house_sparrow_latin_name" formatted="false">Passer domesticus</string>
+    <string name="animal_house_sparrow_description">A small, social bird strongly tied to human habitation.</string>
+    <string name="animal_house_sparrow_distribution">Extremely common, found in nearly every village and city across the country.</string>
+    <string name="animal_house_sparrow_status">Common. Protected under general bird protection laws (IUCN: Least Concern).</string>
+
+    <string name="animal_blue_tit_english_name">Eurasian Blue Tit</string>
+    <string name="animal_blue_tit_latin_name" formatted="false">Cyanistes caeruleus</string>
+    <string name="animal_blue_tit_description">A common, small, and colorful songbird, often found feeding on bird feeders in winter.</string>
+    <string name="animal_blue_tit_distribution">Widespread and numerous in forests, parks, and gardens throughout Poland.</string>
+    <string name="animal_blue_tit_status">Common. Protected under general bird protection laws (IUCN: Least Concern).</string>
+
+    <string name="animal_chaffinch_english_name">Common Chaffinch</string>
+    <string name="animal_chaffinch_latin_name" formatted="false">Fringilla coelebs</string>
+    <string name="animal_chaffinch_description">One of the most numerous bird species in Europe, easily identified by its song.</string>
+    <string name="animal_chaffinch_distribution">Very numerous breeding bird across all types of forests and woodlands in Poland.</string>
+    <string name="animal_chaffinch_status">Common. Protected under general bird protection laws (IUCN: Least Concern).</string>
+
+    <string name="animal_buzzard_english_name">Common Buzzard</string>
+    <string name="animal_buzzard_latin_name" formatted="false">Buteo buteo</string>
+    <string name="animal_buzzard_description">The most common raptor in Poland, often seen soaring above fields and forests.</string>
+    <string name="animal_buzzard_distribution">Widespread throughout the entire country, often perching on roadside poles and trees.</string>
+    <string name="animal_buzzard_status">Legally Protected. Population is stable and healthy (IUCN: Least Concern).</string>
+
+    <string name="animal_carrion_crow_english_name">Hooded Crow</string>
+    <string name="animal_carrion_crow_latin_name" formatted="false">Corvus cornix</string>
+    <string name="animal_carrion_crow_description">A highly intelligent corvid with a grey body and black head/wings, common in the north and east.</string>
+    <string name="animal_carrion_crow_distribution">Widespread in the lowlands, especially in central, northern, and eastern Poland.</string>
+    <string name="animal_carrion_crow_status">Common. Protected under general bird protection laws (IUCN: Least Concern).</string>
+
+    <string name="animal_common_frog_english_name">Common Frog</string>
+    <string name="animal_common_frog_latin_name" formatted="false">Rana temporaria</string>
+    <string name="animal_common_frog_description">The most widespread and common amphibian, spending most of its adult life on land.</string>
+    <string name="animal_common_frog_distribution">Widespread throughout all of Poland, from lowlands to mountains, in forest and open areas.</string>
+    <string name="animal_common_frog_status">Legally **Protected**. Population is widespread (IUCN: Least Concern).</string>
+
+    <string name="animal_fire_bellied_toad_english_name">European Fire-bellied Toad</string>
+    <string name="animal_fire_bellied_toad_latin_name" formatted="false">Bombina bombina</string>
+    <string name="animal_fire_bellied_toad_description">Small toad known for its bright orange and black warning colors on its belly.</string>
+    <string name="animal_fire_bellied_toad_distribution">Widespread in the lowlands of central and eastern Poland, favoring shallow, warm waters.</string>
+    <string name="animal_fire_bellied_toad_status">Legally **Protected**. Found in high numbers in Natura 2000 sites (IUCN: Least Concern).</string>
+
+    <string name="animal_grass_snake_english_name">Grass Snake</string>
+    <string name="animal_grass_snake_latin_name" formatted="false">Natrix natrix</string>
+    <string name="animal_grass_snake_description">The only non-venomous snake species in Poland, easily recognized by its yellow/white neck collar.</string>
+    <string name="animal_grass_snake_distribution">Widespread across all lowlands and lower mountains, always close to water sources.</string>
+    <string name="animal_grass_snake_status">Legally **Protected**. Population is stable (IUCN: Least Concern).</string>
+
+    <string name="animal_roach_english_name">Common Roach</string>
+    <string name="animal_roach_latin_name" formatted="false">Rutilus rutilus</string>
+    <string name="animal_roach_description">One of the most numerous and adaptable freshwater fish species in Europe.</string>
+    <string name="animal_roach_distribution">Abundant in almost every type of water body: rivers, lakes, ponds, and reservoirs across Poland.</string>
+    <string name="animal_roach_status">Common. Subject to fishing regulations (IUCN: Least Concern).</string>
+
+    <string name="animal_common_bream_english_name">Common Bream</string>
+    <string name="animal_common_bream_latin_name" formatted="false">Abramis brama</string>
+    <string name="animal_common_bream_description">A large, deep-bodied fish common in slow-moving waters and lakes.</string>
+    <string name="animal_common_bream_distribution">Very common in all major river systems and lowland lakes throughout Poland.</string>
+    <string name="animal_common_bream_status">Common. Subject to fishing regulations (IUCN: Least Concern).</string>
+
+    <string name="animal_european_perch_english_name">European Perch</string>
+    <string name="animal_european_perch_latin_name" formatted="false">Perca fluviatilis</string>
+    <string name="animal_european_perch_description">A predatory fish known for its striped body and two dorsal fins.</string>
+    <string name="animal_european_perch_distribution">Widespread and common in clean rivers, lakes, and ponds across the entire country.</string>
+    <string name="animal_european_perch_status">Common. Subject to fishing regulations (IUCN: Least Concern).</string>
+
+</resources>
